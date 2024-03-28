@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background: #A8DF8E;
+}
+
+.navbar .nav-link{
+    font-size: 18px;
+    margin-right: 20px;
+    border-radius: px;
+    color: #16003B;
+}
+.navbar .nav-link:hover{
+    background: #FF2E63;
+    color: #000;
+}
+
+.navbar span{
+    padding: 20px;
+}
+
+.color-change{
+    color: #000000;
+}
+
+
+
+
